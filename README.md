@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/thiagogabbi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagogabbi&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogabbi&layout=compact&langs_count=7&theme=calm"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagogabbi&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogabbi&layout=compact&langs_count=7&theme=calm"/>
 </div>
 
   <div align= "center"> 
