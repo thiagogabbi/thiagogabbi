@@ -1,9 +1,8 @@
 ### Olá 👋
 
 
-- 🔭 Trabalhando atualmente como Suporte Nível 2
-- 🌱 Estudando Python
-- 🚀 Futuro desenvolvedor
+- 🔭 Tester
+- 🌱 Estudando Python/Selenium
 - 📫 thiagogabbi@gmail.com
 
 
