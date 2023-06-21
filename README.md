@@ -1,7 +1,8 @@
 ### Olá 👋
 
 
-- 🔭 Tester
+- 🔭 QA Analyst
+- :open_book: Estudante de Sistemas para Internet (IFRS)
 - 🌱 Python
 - 🌱 Java
 - 📫 thiagogabbi@gmail.com
