@@ -2,7 +2,8 @@
 
 
 - 🔭 Tester
-- 🌱 Estudando Python/Selenium
+- 🌱 Python
+- 🌱 Java
 - 📫 thiagogabbi@gmail.com
 
 
