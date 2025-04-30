@@ -1,10 +1,10 @@
 ### Olá 👋
 
 
-- 🔭 FullStack developer
+- FullStack developer
 - :open_book: Estudante de Sistemas para Internet (IFRS)
-- 🌱 Python
-- 🌱 Java
+-  Java
+-  Angular
 - 📫 thiagogabbi@gmail.com
 
 
